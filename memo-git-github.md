@@ -43,3 +43,10 @@ Les branches
 * git branch -D NomDeLaBranche **==>** suprime la branch de nom meme si des commit sont present
 * git diff **==>** permet de voir les difference entre la branche master et la branch actuel
 * git merge NomDeLaBranche **==>** fusionne nom de la branch avec la branch en cour
+* git checkout HEAD~4 **==>** deplace le curseur HEAD de 4 niveaux<br/>
+
+Annulation
+==========
+
+* git reset HEAD~1 **==>** annule le dernier commit (fonctionne que en local)
+* git revert HEAD **==>** annule pour push,nouveaux commit
