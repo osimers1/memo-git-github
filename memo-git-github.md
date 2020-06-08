@@ -5,11 +5,11 @@ Mémo sur GIT et GITHUB
 Pour la configuration
 =====================
 
-* git config --global user.name "Nom d'utilisateur" **==>** Pour configurer le nom <br/>
-* git config --global user.email "utilisateur@mail.com" **=>** Pour definir son adresse mail <br/>
-* git remote add origin https://github.com/osimers1/memo-git-github.git **==>** Ajoute un referentiel <br/>
-* git remote -v **==>** Voir les referentiels <br/>
-* git init **==>** pour initialiser le dossier avec git <br/><br/>
+* git config --global user.name "Nom d'utilisateur" **==>** Pour configurer le nom 
+* git config --global user.email "utilisateur@mail.com" **=>** Pour definir son adresse mail 
+* git remote add origin https://github.com/osimers1/memo-git-github.git **==>** Ajoute un referentiel 
+* git remote -v **==>** Voir les referentiels 
+* git init **==>** pour initialiser le dossier avec git 
 
 Méssage et version
 ==================
