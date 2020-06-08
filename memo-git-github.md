@@ -46,7 +46,24 @@ Les branches
 * git checkout HEAD~4 **==>** deplace le curseur HEAD de 4 niveaux<br/>
 
 Annulation
-==========
+==========  
 
 * git reset HEAD~1 **==>** annule le dernier commit (fonctionne que en local)
-* git revert HEAD **==>** annule pour push,nouveaux commit
+* git revert HEAD **==>** annule pour push,nouveaux commit<br/>
+
+Tag
+===
+
+* git tag V1 <ref> **==>** ajoute le tag V1 a la reference
+* git tag V1 **==>**  ajoute le tag V1 a l'emplacement du HEAD
+
+Divers
+======
+
+* git log **==>** permet de regarder tous les commit
+* git log -2 **==>** permet de voir les deux dernier commit
+* git log --oneline **==>** permet de voir les commit en 1 seul ligne dans la commande
+* le ; **==>** permet d'écrire deux commande en 1 seul ligne <br/>
+
+> Voila la liste est terminer mais est toujours en construction<br/>
+> Merci de votre visite
