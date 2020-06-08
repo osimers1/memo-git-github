@@ -65,5 +65,5 @@ Divers
 * git log --oneline **==>** permet de voir les commit en 1 seul ligne dans la commande
 * le ; **==>** permet d'écrire deux commande en 1 seul ligne <br/>
 
-> Voila la liste est terminer mais est toujours en construction<br/>
-> Merci de votre visite
+> ## Voila la liste est terminer mais est toujours en construction<br/>
+> ## Merci de votre visite
