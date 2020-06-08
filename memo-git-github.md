@@ -7,30 +7,30 @@ Pour la configuration
 
 * git config --global user.name "Nom d'utilisateur" **==>** Pour configurer le nom 
 * git config --global user.email "utilisateur@mail.com" **=>** Pour definir son adresse mail 
-* git remote add origin https://github.com/osimers1/memo-git-github.git **==>** Ajoute un referentiel <br/>
-* git remote -v **==>** Voir les referentiels <br/>
-* git init **==>** pour initialiser le dossier avec git <br/><br/>
+* git remote add origin https://github.com/osimers1/memo-git-github.git **==>** Ajoute un referentiel 
+* git remote -v **==>** Voir les referentiels 
+* git init **==>** pour initialiser le dossier avec git <br/>
 
 Méssage et version
 ==================
 
 * git status **==>** Pour voir le statut des modification
-* git add NomDuFichier **==>** Ajout d'un fichier <br/>
-* git add . **==>** pour ajouter tous les fichier <br/>
-* git commit -m "message" **==>** Prepare l'envoie avec un message<br/><br/>
+* git add NomDuFichier **==>** Ajout d'un fichier 
+* git add . **==>** pour ajouter tous les fichier 
+* git commit -m "message" **==>** Prepare l'envoie avec un message<br/>
 
 Envoyer
 ======
 
-* git push **==>** envoi normal <br/>
-* git push origin master **==>** envoi dansla branche master <br/><br/>
+* git push **==>** envoi normal 
+* git push origin master **==>** envoi dansla branche master <br/>
 
 Recevoir
 ========
 
-* git fetch **==>** recupere branch master mais ne merge pas avec le repertoir de travail<br/>
-* git pull <remote> <branch> **==>** simple reception<br/>
-* git pull origin master **==>** Recupere la branche master et merge avec le repertoire de travail<br/><br/>
+* git fetch **==>** recupere branch master mais ne merge pas avec le repertoir de travail
+* git pull <remote> <branch> **==>** simple reception
+* git pull origin master **==>** Recupere la branche master et merge avec le repertoire de travail<br/>
 
 Les branches
 ============
