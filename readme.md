@@ -63,7 +63,7 @@ Divers
 * git log **==>** permet de regarder tous les commit
 * git log -2 **==>** permet de voir les deux dernier commit
 * git log --oneline **==>** permet de voir les commit en 1 seul ligne dans la commande
-* le ; **==>** permet d'écrire deux commande en 1 seul ligne <br/><br/>
+* le ; **==>** permet d'écrire deux commande en 1 seul ligne <br/><br/> 
 
 > ## Voila la liste est terminer mais est toujours en construction<br/>
 > ## Merci de votre visite
